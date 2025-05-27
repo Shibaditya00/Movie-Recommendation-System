@@ -1,7 +1,3 @@
-# Movie Recommendation System
-
----
-
 # 🎬 Movie Recommendation System
 
 A content-based movie recommender system built with Python and Streamlit that suggests similar movies based on user input.
@@ -35,7 +31,7 @@ This system analyzes movie metadata—including genres, keywords, and overviews�
 
 ```
 
-Movie-Recommendation-System/
+Movie-Recommendation-System
 * ├── app.py
 * ├── config.json
 * ├── movies.csv
